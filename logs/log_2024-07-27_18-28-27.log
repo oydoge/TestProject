@@ -1,0 +1,22 @@
+
+-----
+Test: test_link_about.py::test_link_about (call)
+Start time: 2024-07-27 18:28:31.513934
+Start name method: autorization
+
+End time: 2024-07-27 18:28:41.855276
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_link_about.py::test_link_about (call)
+Start time: 2024-07-27 18:28:44.859434
+Start name method: select_menu_about
+
+End time: 2024-07-27 18:28:48.782633
+End name method: select_menu_about
+URL: https://saucelabs.com/
+
+-----

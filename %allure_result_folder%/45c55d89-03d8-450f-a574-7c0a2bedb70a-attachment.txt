@@ -1,0 +1,22 @@
+START TEST 1
+Current url https://www.saucedemo.com/
+input user name good
+input password good
+input login button click
+assert good value word
+Current url https://www.saucedemo.com/inventory.html
+select product 1
+clicl cart
+Current url https://www.saucedemo.com/cart.html
+click chekout button 
+Current url https://www.saucedemo.com/checkout-step-one.html
+input user name good
+input password good
+input login button click
+input login button click
+Current url https://www.saucedemo.com/checkout-step-two.html
+click finish button
+Current url https://www.saucedemo.com/checkout-complete.html
+screen made
+Good value url
+FINISH TEST

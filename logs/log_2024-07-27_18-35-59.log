@@ -1,0 +1,99 @@
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-27 18:36:03.856627
+Start name method: autorization
+
+End time: 2024-07-27 18:36:15.347141
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-27 18:36:18.361061
+Start name method: select_products_1
+
+End time: 2024-07-27 18:36:18.451695
+End name method: select_products_1
+URL: https://www.saucedemo.com/cart.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-27 18:36:21.457694
+Start name method: click_checkout_button
+
+End time: 2024-07-27 18:36:21.517688
+End name method: click_checkout_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-27 18:36:24.518205
+Start name method: uinput_information
+
+End time: 2024-07-27 18:36:27.923502
+End name method: uinput_information
+URL: https://www.saucedemo.com/checkout-step-two.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-27 18:36:34.005648
+Start name method: finish
+
+End time: 2024-07-27 18:36:34.105487
+End name method: finish
+URL: https://www.saucedemo.com/checkout-complete.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-27 18:36:59.022154
+Start name method: autorization
+
+End time: 2024-07-27 18:37:09.568701
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_2 (call)
+Start time: 2024-07-27 18:37:15.658186
+Start name method: click_checkout_button
+
+End time: 2024-07-27 18:37:15.712354
+End name method: click_checkout_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_3 (call)
+Start time: 2024-07-27 18:37:39.870848
+Start name method: autorization
+
+End time: 2024-07-27 18:37:49.898036
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product_3 (call)
+Start time: 2024-07-27 18:37:55.998884
+Start name method: click_checkout_button
+
+End time: 2024-07-27 18:37:56.058663
+End name method: click_checkout_button
+URL: https://www.saucedemo.com/checkout-step-one.html
+
+-----

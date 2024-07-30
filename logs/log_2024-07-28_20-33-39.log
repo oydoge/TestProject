@@ -1,0 +1,39 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-28 20:33:41.751878
+Start name method: autorization
+
+End time: 2024-07-28 20:33:52.108854
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-28 20:33:55.120425
+Start name method: select_products_1
+
+
+-----
+Test: tests/test_link_about.py::test_link_about (call)
+Start time: 2024-07-28 20:34:28.209216
+Start name method: autorization
+
+End time: 2024-07-28 20:34:37.454655
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_link_about.py::test_link_about (call)
+Start time: 2024-07-28 20:34:40.474175
+Start name method: select_menu_about
+
+End time: 2024-07-28 20:34:44.696895
+End name method: select_menu_about
+URL: https://saucelabs.com/
+
+-----

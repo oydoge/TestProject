@@ -1,0 +1,17 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-28 20:24:09.361722
+Start name method: autorization
+
+End time: 2024-07-28 20:24:19.447417
+End name method: autorization
+URL: https://www.saucedemo.com/inventory.html
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product_1 (call)
+Start time: 2024-07-28 20:24:22.455572
+Start name method: select_products_1
+

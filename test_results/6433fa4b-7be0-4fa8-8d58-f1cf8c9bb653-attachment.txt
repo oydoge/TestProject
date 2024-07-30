@@ -1,0 +1,7 @@
+START TEST 1
+Current url https://www.saucedemo.com/
+input user name good
+input password good
+input login button click
+assert good value word
+Current url https://www.saucedemo.com/inventory.html
